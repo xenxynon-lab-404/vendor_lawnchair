@@ -15,7 +15,7 @@
   ~ limitations under the License
   -->
 <permissions>
-    <privapp-permissions package="app.lawnchair">
+    <privapp-permissions package="app.lawnchair.twelvel">
         <permission name="android.permission.BIND_APPWIDGET"/>
         <permission name="android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS"/>
         <permission name="android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS"/>
